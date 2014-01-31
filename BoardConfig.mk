@@ -29,5 +29,4 @@
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2vzw
 
-# Kernel
-TARGET_KERNEL_CONFIG        := d2_vzw_defconfig
+TARGET_BOARD_INFO_FILE ?= device/samsung/d2vzw/board-info.txt
