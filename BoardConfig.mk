@@ -29,4 +29,3 @@
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2vzw
 
-TARGET_BOARD_INFO_FILE ?= device/samsung/d2vzw/board-info.txt
